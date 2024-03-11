@@ -38,7 +38,6 @@
    ```bash
    npm install
    ```
-- Create a .env file and add the Supabase URL and API key.
 - Run the app using npm start.
    ```bash
    npm start
